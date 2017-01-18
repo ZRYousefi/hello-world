@@ -3,3 +3,9 @@ s is a test text file for GitHub.
 Hey all! a new line here!!!
 
 Again I am adding another line
+
+First I need to push the button of "Commit changes" at the end of this page
+Then I need: git pull origin master
+and then : git add . 
+then: git commit -m "a comment"
+Finally: git push
